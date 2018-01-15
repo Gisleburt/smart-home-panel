@@ -33,7 +33,7 @@ Rough outline of what needs doing:
 
 - ✅ Make a plan
 - ✅ Add Open Source Documentation
-- ❌ Create Webpack App
+- ✅ Create Webpack App
   - ❌ Add React
   - ❌ Add Redux
   - ❌ Layout & Styles
